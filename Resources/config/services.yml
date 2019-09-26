@@ -1,0 +1,4 @@
+services:
+#    mjmc_template.example:
+#        class: MJMC\Bundle\TemplateBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
